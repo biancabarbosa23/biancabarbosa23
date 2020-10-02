@@ -6,7 +6,7 @@
   education: 'Systems development at Fatec',
   job: 'Web | Mobile Developer Intern',
   company: 'Mind Consulting',
-  skills: 'learning JavaScript, NodeJS, React and React Native'
+  skills: 'learning JavaScript, NodeJS, ReactJS and React Native'
  }
 ```
 
