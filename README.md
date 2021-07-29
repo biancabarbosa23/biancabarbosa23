@@ -4,13 +4,13 @@
   name : 'Bianca Alves',
   age : 20,
   education: 'Systems development at Fatec',
-  job: 'Web | Mobile Developer Intern',
-  company: 'Mind Consulting',
+  job: 'Junior Engineer Technology',
+  company: 'everis',
   skills: [
    'JavaScript',
    'NodeJS', 
    'ReactJS', 
-   'React Native'
+   'Adobe Experience Manager'
   ]
  }
 ```
