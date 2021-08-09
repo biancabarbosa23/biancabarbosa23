@@ -6,8 +6,8 @@
   name : 'Bianca Alves',
   age : 20,
   education: 'Systems development at Fatec',
-  job: 'Junior Engineer Technology',
-  company: 'everis',
+  job: 'Junior Technology Engineer',
+  company: 'everis (NTT Data)',
   skills: [
    'JavaScript',
    'NodeJS', 
