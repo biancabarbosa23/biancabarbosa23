@@ -1,4 +1,6 @@
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+
 ```javascript
  const me = {
   name : 'Bianca Alves',
@@ -14,8 +16,6 @@
   ]
  }
 ```
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bianca-a-barbosa/" alt="Linkedin">
