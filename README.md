@@ -7,7 +7,7 @@
   age : 20,
   education: 'Systems development at Fatec',
   job: 'Junior Technology Engineer',
-  company: 'everis (NTT Data)',
+  company: 'everis | NTT Data',
   skills: [
    'JavaScript',
    'NodeJS', 
