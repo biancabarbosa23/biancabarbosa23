@@ -4,7 +4,7 @@
 ```javascript
  const me = {
   name : 'Bianca Alves',
-  age : 20,
+  age : 21,
   education: 'Systems development at Fatec',
   job: 'Junior Technology Engineer',
   company: 'NTT Data',
