@@ -7,7 +7,7 @@
   age : 24,
   education: 'Systems development at Fatec',
   job: 'Technology Engineer',
-  company: 'NTT Data',
+  company: 'NTT Data Brasil',
   skills: [
    'JavaScript',
    'NodeJS', 
