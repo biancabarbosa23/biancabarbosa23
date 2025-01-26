@@ -6,7 +6,7 @@
   name : 'Bianca Alves',
   age : 24,
   education: 'Systems development at Fatec',
-  job: 'Junior Technology Engineer',
+  job: 'Technology Engineer',
   company: 'NTT Data',
   skills: [
    'JavaScript',
