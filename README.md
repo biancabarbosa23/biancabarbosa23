@@ -3,7 +3,7 @@
 
 ```javascript
  const me = {
-  name : 'Bianca Alves',
+  name : 'Bianca Alves Barbosa',
   age : 24,
   education: 'Systems development at Fatec',
   job: 'Technology Engineer',
